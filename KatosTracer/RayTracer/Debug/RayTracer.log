@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Johnathan\Desktop\Development\C++ projects\RayTracing\KatosTracer\RayTracer\source\Main.cpp(122,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  RayTracer.vcxproj -> C:\Users\Johnathan\Desktop\Development\C++ projects\RayTracing\KatosTracer\Debug\RayTracer.exe
